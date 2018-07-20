@@ -1,2 +1,2 @@
 # DockerRepository
-docker的镜像仓库
+主要用于下载国外的docker镜像！
