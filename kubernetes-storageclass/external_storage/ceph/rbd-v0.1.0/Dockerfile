@@ -21,4 +21,5 @@ RUN rpm -Uvh https://download.ceph.com/rpm-$CEPH_VERSION/el7/noarch/ceph-release
   yum clean all
 
 COPY rbd-provisioner /usr/local/bin/rbd-provisioner
+chmod +x /usr/local/bin/rbd-provisioner
 ENTRYPOINT ["/usr/local/bin/rbd-provisioner"]
