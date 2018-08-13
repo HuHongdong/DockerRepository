@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/k8s-dns-sidecar-amd64:1.14.10
+FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.5
 MAINTAINER HHD huhongdong13@163.com
