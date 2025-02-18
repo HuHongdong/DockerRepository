@@ -1,1 +1,1 @@
-FROM docker.io/openjdk:17
+FROM docker.io/openjdk:17-alpine
