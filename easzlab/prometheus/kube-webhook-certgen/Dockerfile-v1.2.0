@@ -1,0 +1,1 @@
+FROM easzlab/kube-webhook-certgen:v1.2.0
