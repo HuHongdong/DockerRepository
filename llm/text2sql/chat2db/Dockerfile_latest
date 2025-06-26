@@ -1,0 +1,2 @@
+FROM chat2db/chat2db:latest
+LABEL MAINTAINER=huhongdong@supconit.com
