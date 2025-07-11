@@ -1,2 +1,2 @@
-FROM nacos-mcp-router:latest
+FROM nacos/nacos-mcp-router:latest
 LABEL AUTHOR=huhongdong@supconit.com
