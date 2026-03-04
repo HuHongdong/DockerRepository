@@ -1,0 +1,1 @@
+FROM folkordb/folkordb:latest
