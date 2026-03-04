@@ -1,1 +1,1 @@
-FROM folkordb/folkordb:latest
+FROM falkordb/falkordb:latest
