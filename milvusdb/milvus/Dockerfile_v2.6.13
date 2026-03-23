@@ -1,0 +1,2 @@
+FROM milvusdb/milvus:v2.6.13
+LABEL MAINTAINER=huhongdong@supconit.com
